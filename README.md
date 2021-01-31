@@ -1,2 +1,3 @@
 # MathematicalModels
-This repository is dedicated to store codes of mathematical models.
+This repository is dedicated to storing codes of mathematical models.
+$x_i$
